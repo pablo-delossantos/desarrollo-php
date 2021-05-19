@@ -1,2 +1,2 @@
 # desarrollo-php
-Carrera de desarrollo con PHP
+Carrera de desarrollo con PHP de Platzi
